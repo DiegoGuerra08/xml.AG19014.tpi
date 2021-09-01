@@ -1,0 +1,10 @@
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;}
+nombre {background-color:white; color: black; display:block;} 
+apellido {color:yellow; display:block; background-color: cadetblue;}
+direccion {color:yellow;font-size:1cm; display:block; font-size: 0.5cm;}
+email{background-color: chartreuse; display: block; font-size: 0.5cm;}
+telefono{background-color: coral; display: block; font-size:0.5cm;}
+dui{background-color: darkcyan; display: block; font-size: 0.5cm;}
+isss{background-color: darkgreen; display: block; font-size: 0.5cm;}
+afp{background-color: darkslateblue; display: block; font-size: 0.5cm;}

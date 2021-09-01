@@ -1,0 +1,31 @@
+{
+	"pais": {
+		"moneda": "dolar",
+		"idioma": "español",
+		"telefonoarea": "+503",
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "843,500",
+				"altura": "493 MSNM",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "631,100",
+				"altura": "763 MSNM",
+				"_id": "3",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

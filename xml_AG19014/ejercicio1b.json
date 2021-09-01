@@ -1,0 +1,16 @@
+{
+	"fichero": {
+		"ficha": {
+			"nombre": "Antonio",
+			"apellido": "Barbero",
+			"direccion": "Calle de Los Andes, 45",
+			"telefono": "7722-3344",
+			"email": "mper@gmail.com",
+			"dui": "00988785-3",
+			"isss": "5685656",
+			"afp": "2785746",
+			"_id": "1",
+			"_fechaingreso": "1/11/2012"
+		}
+	}
+}

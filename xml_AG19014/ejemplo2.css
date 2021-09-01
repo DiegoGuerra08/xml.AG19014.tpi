@@ -1,0 +1,15 @@
+/* ejemplo2.css   SUCARNET  */
+pais {background-color:blue;}
+departamento {background-color:lightcoral; display:inline-block;} 
+
+departamento[id]::before{
+content: attr(id) "--";
+background-color: aquamarine;
+display: inline-block;   
+}
+
+pais[nombre]::before{
+content: attr(nombre) "--";
+background-color: green;
+display:block;
+} 
